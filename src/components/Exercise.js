@@ -74,11 +74,11 @@ const randomPrompts = [
   "Describe a strong memory from middle/high school",
   "What advice would you give to yourself 5 years ago? Why?",
   "Describe someone who always makes you feel good. How do they do it?",
-  "What'What's something you've been avoiding? Why?",
+  "What's something you've been avoiding? Why?",
   "Explain to a toddler how superstores work.",
   "Explain to a toddler how planets work.",
   "Explain to a toddler how cars work.",
-  "Explain to a toddler how and when to speak up.",
+  "Describe a time you struggled to speak up in a group.",
   "Explain to a toddler how wind works."
 ];
 
